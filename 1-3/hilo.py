@@ -7,19 +7,13 @@ Author: Zack Garza
 '''
 
 def calculate():
-	score = [0] * 5
+	score = [];
 	for i in range (0, 5):
-		query = "What was score number " + str(i+1) + "? ";
-		score[i] = int(input(query))
+		score.append(int(input("What was score number " + str(i+1) + "? ")));
 
-	total, lowest, highest = 0, score[0], score[0];
-
-	for i in range(0, 5):
-		total += score[i];
-		if score[i] > highest:
-			highest = score[i]
-		if score[i] < lowest:
-			lowest = score[i]		
+	total = sum(score)	
+	highest = max(score)
+	lowest = min(score)
 
 	average = total / 5;
 	print("Highest score: " + str(highest));
