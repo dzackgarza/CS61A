@@ -23,3 +23,4 @@ def total():
 	return (book1 + book2 + book3 + (numberOfBooks * SHIPPING)) / 100
 
 print(total())
+
