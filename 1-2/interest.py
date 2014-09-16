@@ -17,3 +17,4 @@ step3 = pow(step2, years)
 balance = principal * step3
 
 print("Your balance is: $" + "%.2f" %  balance)
+print("Balance: " + format(%.2f)
