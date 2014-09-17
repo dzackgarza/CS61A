@@ -6,7 +6,7 @@ Author: Zack Garza
 moreGPAs = True;
 
 GPAs = []
-values = ['F', 'D', 'C', 'B', 'A']
+values = ['f', 'd', 'c', 'b', 'a']
 
 while(moreGPAs):
 
@@ -23,13 +23,13 @@ while(moreGPAs):
 
 		letter = input("Enter letter grade for this class: ")
 
-		letterValue = values.index(letter)
+		letterValue = values.index(letter.lower())
 		GPA += units * letterValue;
 
 		cont = input("Are there more grades to enter? (y/n) ")
 		moreClasses = cont in ['y', 'Y', 'yes', 'Yes']
 	
-	print(str(GPA / totalUnits))
+	print("{0:.2f}".format(GPA / totalUnits))
 	cont = input("Are there more GPAs to calculate? (y/n) ")
 	moreGPAs = cont in ['y', 'Y', 'yes', 'Yes']
 
