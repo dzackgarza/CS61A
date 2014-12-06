@@ -1,0 +1,868 @@
+{
+    "all_prereq_codes": [], 
+    "code": "C79", 
+    "title": " Societal Risks and the Law", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "150", 
+    "external_prereqs": [
+        "40"
+    ], 
+    "internal_prereqs": [
+        "61C"
+    ], 
+    "title": " Components and Design Techniques for Digital Systems", 
+    "units": "5"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "47B", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "9G"
+    ], 
+    "title": " Completion of Work in Computer Science 61B", 
+    "units": "1"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "152", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61C"
+    ], 
+    "title": " Computer Architecture and Engineering", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "199", 
+    "title": " Supervised Independent Study", 
+    "units": "1"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "198", 
+    "external_prereqs": [
+        "2", 
+        "0", 
+        "60"
+    ], 
+    "internal_prereqs": [], 
+    "title": " Directed Group Studies for Advanced Undergraduates", 
+    "units": "1"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "47C", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "9C"
+    ], 
+    "title": " Completion of Work in Computer Science 61C", 
+    "units": "1"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "3S", 
+    "title": " Introduction to Symbolic Programming (Self-Paced)", 
+    "units": "1"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "194", 
+    "title": " Special Topics", 
+    "units": "1"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "197", 
+    "title": " Field Study", 
+    "units": "1"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "264", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "164", 
+        "263"
+    ], 
+    "title": " Implementation of Programming Languages", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "283B", 
+    "title": " Computer-Aided Geometric Design and Modeling", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "270", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "170"
+    ], 
+    "title": " Combinatorial Algorithms and Data Structures", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "271", 
+    "external_prereqs": [
+        "279"
+    ], 
+    "internal_prereqs": [
+        "170", 
+        "270"
+    ], 
+    "title": " Randomness and Computation", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "273", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "170"
+    ], 
+    "title": " Foundations of Parallel Computation", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "47A", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61B", 
+        "9D"
+    ], 
+    "title": " Completion of Work in Computer Science 61A", 
+    "units": "1"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "276", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "170"
+    ], 
+    "title": " Cryptography", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "3L", 
+    "title": " Introduction to Symbolic Programming", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "252", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "152"
+    ], 
+    "title": " Graduate Computer Architecture", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "176", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "70", 
+        "170"
+    ], 
+    "title": " Algorithms for Computational Biology", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "250", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "150"
+    ], 
+    "title": " VLSI Systems Design", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "174", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "170"
+    ], 
+    "title": " Combinatorics and Discrete Probability", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "289A", 
+    "external_prereqs": [
+        "53", 
+        "54"
+    ], 
+    "internal_prereqs": [
+        "70", 
+        "188"
+    ], 
+    "title": " Introduction to Machine Learning", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "172", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "170"
+    ], 
+    "title": " Computability and Complexity", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "170", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61B", 
+        "70"
+    ], 
+    "title": " Efficient Algorithms and Intractable Problems", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "375", 
+    "title": " Teaching Techniques for Computer Science", 
+    "units": "2"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "61C", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61A", 
+        "61B", 
+        "61BL", 
+        "9C", 
+        "9F", 
+        "9G"
+    ], 
+    "title": " Machine Structures", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "399", 
+    "title": " Professional Preparation: Supervised Teaching of Computer Science", 
+    "units": "1"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "9A", 
+    "external_prereqs": [
+        "10"
+    ], 
+    "internal_prereqs": [], 
+    "title": " Matlab for Programmers", 
+    "units": "2"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "9C", 
+    "external_prereqs": [
+        "9B", 
+        "7"
+    ], 
+    "internal_prereqs": [
+        "61A"
+    ], 
+    "title": " C for Programmers", 
+    "units": "2"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "9E", 
+    "external_prereqs": [
+        "7"
+    ], 
+    "internal_prereqs": [
+        "61A"
+    ], 
+    "title": " Productive Use of the UNIX Environment", 
+    "units": "2"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "9D", 
+    "external_prereqs": [
+        "10", 
+        "7"
+    ], 
+    "internal_prereqs": [], 
+    "title": " Scheme and Functional Programming for Programmers", 
+    "units": "2"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "9G", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "9C", 
+        "9F", 
+        "61A"
+    ], 
+    "title": " JAVA for Programmers", 
+    "units": "2"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "C280", 
+    "external_prereqs": [
+        "1A", 
+        "1B", 
+        "53", 
+        "54"
+    ], 
+    "internal_prereqs": [], 
+    "title": " Computer Vision", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "262B", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "262A"
+    ], 
+    "title": " Advanced Topics in Computer Systems", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "288", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "188", 
+        "170"
+    ], 
+    "title": " Natural Language Processing", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "262A", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "162"
+    ], 
+    "title": " Advanced Topics in Computer Systems", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "186", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61B", 
+        "61C"
+    ], 
+    "title": " Introduction to Database Systems", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "260A", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61B", 
+        "61BL"
+    ], 
+    "title": " User Interface Design and Development", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "184", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61B", 
+        "61BL"
+    ], 
+    "title": " Foundations of Computer Graphics", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "61B", 
+    "external_prereqs": [
+        "7"
+    ], 
+    "internal_prereqs": [
+        "61A"
+    ], 
+    "title": " Data Structures", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "61BL", 
+    "external_prereqs": [
+        "7"
+    ], 
+    "internal_prereqs": [
+        "61A"
+    ], 
+    "title": " Data Structures and Programming Methodology", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "C281A", 
+    "external_prereqs": [
+        "289"
+    ], 
+    "internal_prereqs": [], 
+    "title": " Statistical Learning Theory", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "61A", 
+    "external_prereqs": [
+        "1A", 
+        "3"
+    ], 
+    "internal_prereqs": [], 
+    "title": " The Structure and Interpretation of Computer Programs", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "285", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "184"
+    ], 
+    "title": " Solid Free-Form Modeling and Fabrication", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "287", 
+    "external_prereqs": [
+        "125"
+    ], 
+    "internal_prereqs": [], 
+    "title": " Advanced Robotics", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "C281B", 
+    "external_prereqs": [
+        "281A", 
+        "241A"
+    ], 
+    "internal_prereqs": [], 
+    "title": " Advanced Topics in Learning and Decision Making", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "260B", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "160"
+    ], 
+    "title": " Human-Computer Interaction Research", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "C191", 
+    "external_prereqs": [
+        "54", 
+        "7A", 
+        "7B", 
+        "7C", 
+        "55"
+    ], 
+    "internal_prereqs": [
+        "170"
+    ], 
+    "title": " Quantum Information Science and Technology", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "9H", 
+    "external_prereqs": [
+        "10"
+    ], 
+    "internal_prereqs": [], 
+    "title": " Python for Programmers", 
+    "units": "2"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "302", 
+    "external_prereqs": [
+        "301"
+    ], 
+    "internal_prereqs": [], 
+    "title": " Designing Computer Science Education", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "263", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "164"
+    ], 
+    "title": " Design of Programming Languages", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "98", 
+    "title": " Directed Group Study", 
+    "units": "1"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "261", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "162"
+    ], 
+    "title": " Security in Computer Systems", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "168", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61B", 
+        "162"
+    ], 
+    "title": " Introduction to the Internet: Architecture and Protocols", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "169", 
+    "external_prereqs": [
+        "113"
+    ], 
+    "internal_prereqs": [
+        "61B", 
+        "61C", 
+        "70"
+    ], 
+    "title": " Software Engineering", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "265", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "164"
+    ], 
+    "title": " Compiler Optimization and Code Generation", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "70", 
+    "external_prereqs": [
+        "3"
+    ], 
+    "internal_prereqs": [], 
+    "title": " Discrete Mathematics and Probability Theory", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "164", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61B", 
+        "61C"
+    ], 
+    "title": " Programming Languages and Compilers", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "278", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "170"
+    ], 
+    "title": " Machine-Based Complexity Theory", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "268", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "162"
+    ], 
+    "title": " Computer Networks", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "160", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61B", 
+        "61BL"
+    ], 
+    "title": " User Interface Design and Development", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "161", 
+    "external_prereqs": [
+        "55"
+    ], 
+    "internal_prereqs": [
+        "61C", 
+        "70"
+    ], 
+    "title": " Computer Security", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "97", 
+    "title": " Field Study", 
+    "units": "1"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "H196A-H196B", 
+    "title": " Senior Honors Thesis Research", 
+    "units": "1"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "99", 
+    "external_prereqs": [
+        "3", 
+        "4"
+    ], 
+    "internal_prereqs": [], 
+    "title": " Individual Study and Research for Undergraduates", 
+    "units": "1"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "39", 
+    "title": " Freshman/Sophomore Seminar", 
+    "units": 0
+}
+{
+    "all_prereq_codes": [], 
+    "code": "189", 
+    "external_prereqs": [
+        "53", 
+        "54"
+    ], 
+    "internal_prereqs": [
+        "70", 
+        "188"
+    ], 
+    "title": " Introduction to Machine Learning", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "61CL", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61A", 
+        "61B", 
+        "61BL", 
+        "9C", 
+        "9F", 
+        "9G"
+    ], 
+    "title": " Machine Structures (Lab-Centric)", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "C294P", 
+    "title": " Interactive Device Design", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "C149", 
+    "external_prereqs": [
+        "20N", 
+        "55"
+    ], 
+    "internal_prereqs": [
+        "61C", 
+        "70"
+    ], 
+    "title": " Introduction to Embedded Systems", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "C219D", 
+    "title": " Concurrent Models of Computation", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "188", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61A", 
+        "61B", 
+        "70"
+    ], 
+    "title": " Introduction to Artificial Intelligence", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "9F", 
+    "external_prereqs": [
+        "9B", 
+        "7"
+    ], 
+    "internal_prereqs": [
+        "61A"
+    ], 
+    "title": " C++ for Programmers", 
+    "units": "2"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "274", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "170"
+    ], 
+    "title": " Computational Geometry", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "286A", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61B", 
+        "61C"
+    ], 
+    "title": " Introduction to Database Systems", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "286B", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "162", 
+        "186", 
+        "286A"
+    ], 
+    "title": " Implementation of Data Base Systems", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "H196", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "150", 
+        "170"
+    ], 
+    "title": " Honors Seminar for Computer Science Majors", 
+    "units": "3"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "162", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61B", 
+        "61C", 
+        "70"
+    ], 
+    "title": " Operating Systems and System Programming", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "61AS", 
+    "external_prereqs": [
+        "1A", 
+        "10"
+    ], 
+    "internal_prereqs": [], 
+    "title": " The Structure and Interpretation of Computer Programs (Self-Paced)", 
+    "units": "1"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "261N", 
+    "external_prereqs": [
+        "122"
+    ], 
+    "internal_prereqs": [
+        "161"
+    ], 
+    "title": " Internet and Network Security", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "284A", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "61B", 
+        "61BL"
+    ], 
+    "title": " Foundations of Computer Graphics", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "284B", 
+    "external_prereqs": [], 
+    "internal_prereqs": [
+        "184"
+    ], 
+    "title": " Advanced Computer Graphics Algorithms and Techniques", 
+    "units": "4"
+}
+{
+    "all_prereq_codes": [], 
+    "code": "266", 
+    "external_prereqs": [
+        "5"
+    ], 
+    "internal_prereqs": [
+        "162"
+    ], 
+    "title": " Introduction to System Performance Analysis", 
+    "units": "3"
+}
